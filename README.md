@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @multitalented
-- 👷🏻‍♀ I work as a mechanical engineer for the Air Force
-- 👩🏻‍💻 I'm a 50-50 logical/creative thinker and love coding for fun
-- 💻 I have experience with C++, C#, SQL, VBA, HTML, CSS
-- 🌱 I’m currently working to advance my web development skills beyond HTML and CSS ...
-- 🎹 I compose music on piano and in Logic Pro
-- 📚 I'm an avid reader and writer
-- 💞️ And I would love to collaborate on music or game development projects!
+- 👷🏻‍♀ I'm a mechanical engineer that loves coding
+- 👩🏻‍💻 50-50 logical/creative thinker
+- 💻 I have experience with C++, C#, SQL, HTML, CSS, VBA
+- 🌱 I’m currently advancing my web development skills beyond HTML and CSS
+- 🌱 I'm learning advanced CSS, Bootstrap, and more...
+- 🎹 I write music on piano and produce in Logic Pro
+- 💞️ And I would love to collaborate
 - 📫 Email multitalentedcreator4@gmail.com to get in touch
 
 <!---
