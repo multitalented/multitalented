@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @multitalented
 - 👷🏻‍♀ I'm a mechanical engineer that loves coding
-- 👩🏻‍💻 50-50 logical/creative thinker
-- 💻 I have experience with C++, C#, SQL, HTML, CSS, VBA
-- 🌱 I’m currently advancing my web development skills beyond HTML and CSS
-- 🌱 I'm learning advanced CSS, Bootstrap, and more...
-- 🎹 I write music on piano and produce in Logic Pro
-- 💞️ And I would love to collaborate
+- 👩🏻‍💻 50-50 logical/creative
+- 💻 I have experience with C++, C#, SQL, HTML, CSS, JavaScript, VBA
+- 🌱 I’m currently learning full-stack web development
+- 🌱 Such as frameworks and tools like Bootstrap, jQuery, Node.js, API's, git version control, and more
+- 🐈‍⬛ My fergalicious cat is famous amongst friends
 - 📫 Email multitalentedcreator4@gmail.com to get in touch
 
 <!---
