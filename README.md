@@ -8,9 +8,7 @@ I have a solid foundation in programming since I love doing it, but I'm learning
 
 Keep up with my journey as I upload new projects (and check out my older coding work)
 
-Stay tuned for my published personal website that will showcase my CV, favorite coding and creative projects ♥️
-
-Email djgierzak@gmail.com to get in touch         
+Stay tuned for my published personal website that will showcase my CV, favorite coding and creative projects ♥️    
 
 <!---
 multitalented/multitalented is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
