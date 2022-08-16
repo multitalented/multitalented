@@ -7,7 +7,9 @@ I also make music for video games! Reach out to collaborate on a game jam.
 
 Game and Music links:
 https://linktr.ee/deannajoanmusic
+
 https://fergieshuman.itch.io
+
 https://soundcloud.com/deannajoanmusic
 
 Global Game Jam 2022:
