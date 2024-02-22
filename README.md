@@ -1,6 +1,6 @@
-👩🏻‍💻 Hi, I'm an engineer and composer, and I dabble in coding and game development.
+Composer, engineer. 
 
-I'll try to upload projects when I have time (but feel free to check out my older coding projects).
+I try to upload projects when I have time and think about it
 
 Security+ certified <https://www.credly.com/badges/a1f2d9a8-c901-4807-8737-6f93d0b262d3/public_ur>
 
